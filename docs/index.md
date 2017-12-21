@@ -1,3 +1,6 @@
-# Unity Resources
+---
+title: My Homepage
+weight: 1
+---
 
-This is a collection of resources for the Unity team. We'll start with coding standards and eventually include the team handbook as well!
+This is your homepage
