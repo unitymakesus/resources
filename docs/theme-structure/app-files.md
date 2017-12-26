@@ -22,8 +22,11 @@ Important things in this file:
 * Register sidebars
 
 ## Customizations
+You should add new files with WordPress customizations to this `app` directory. Whenever you add a new file here, you want to make it gets included in the theme by adding it to the array of required files on line 61 in `resources/functions.php`.
+
+For example, a few common customizations would fall into the below example files:
+
 ### Post Types
-Add file to `app` directory
 ```
 |-- app/
 |   |-- custom-post-types.php
@@ -34,7 +37,6 @@ Add file to `app` directory
 * WordPress Post Types documentation: [Post Types « WordPress Codex](https://codex.wordpress.org/Post_Types)
 
 ### Shortcodes
-Add file to `app` directory
 ```
 |— app/
 |   |— shortcodes.php
