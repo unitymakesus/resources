@@ -1,4 +1,4 @@
-# 1. App: Theme setup files
+# App: Theme setup files
 
 The starter template comes with the following files. You should add theme add-on configurations like *custom post types*, *custom taxonomies*, and *custom shortcodes* to this directory too. 
 
