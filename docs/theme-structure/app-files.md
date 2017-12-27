@@ -1,3 +1,8 @@
+---
+title: Theme setup files
+weight: 1
+---
+
 # App: Theme setup files
 
 The starter template comes with the following files. You should add theme add-on configurations like *custom post types*, *custom taxonomies*, and *custom shortcodes* to this directory too. 
@@ -45,4 +50,3 @@ For example, a few common customizations would fall into the below example files
 #### Related resources:
 * add_shortcode() function reference: [Function Reference/add shortcode « WordPress Codex](https://codex.wordpress.org/Function_Reference/add_shortcode)
 * WordPress Shortcodes API: [Shortcode API « WordPress Codex](https://codex.wordpress.org/Shortcode_API)
- 
