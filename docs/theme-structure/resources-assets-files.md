@@ -1,4 +1,4 @@
-# 3. Resources: Asset files
+# Resources: Asset files
 The starter template comes with the following directory structure and files for the front-end development. Any theme assets, such as images, fonts, CSS, and JS should be contained within the `resources/assets/` directory.
 
 ```
