@@ -1,4 +1,4 @@
-# Other: Theme engine files
+# 4. Other files
 There are a bunch of files that power the theme. These are rarely edited and should only be touched if you know what you’re doing.
 
 ```
