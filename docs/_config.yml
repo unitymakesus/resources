@@ -40,12 +40,12 @@ includes_dir: src/_includes
 settings:
   # Turn the automatically generated page contents on and off
   autoPageContents:
-    active: true
+    active: false
     onHome: false
   # Options for the sidebar menu      
   sideMenu:
     homeItem: true
-    startExpanded: false
+    startExpanded: true
   # Arbitrary multi-level topbar menu
   # IF you don't need this just comment out everything below
   # ----------------------------------
