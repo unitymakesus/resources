@@ -1,34 +1,5 @@
 # Unity WP Starter Template
 
-## Setup Local Environment
-
-Create new project in Local by Flywheel:
-* Set site name, local dev URL, and project directory
-* Choose custom environment:
-  * PHP Version >= 7.0.0
-  * Web server = Apache
-  * MySQL >= 5.5
-
-## Create Git Repo From Template
-
-1. Create a new repository in Unity's GitHub organization: https://github.com/organizations/unitymakesus/repositories/new (**Do not initialize it with a README, license, or .gitignore files.**)
-
-2. Then clone the starter-template repo without commit history. Move the starter-template files into the project directory and initialize a new repo for the new project:
-
-````shell
-# @ app/public/
-$ git clone --depth 1 https://github.com/unitymakesus/starter-template.git
-$ rm -rf starter-template/.git
-$ cp -r starter-template/. .
-$ rm -rf starter-template
-$ git init
-$ git add .
-$ git commit -m "Initial commit"
-$ git remote add origin [replace with remote repository URL]
-$ git remote -v
-$ git push -u origin master
-````
-
 ## Install Sage
 
 Make sure all dependencies have been installed:
