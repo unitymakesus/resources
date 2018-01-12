@@ -15,7 +15,7 @@ Create new project in Local by Flywheel:
 
 ```shell
 # @ app/public/
-$ git clone --depth 1 https://github.com/unitymakesus/[PROJECT-NAME].git
+$ git clone https://github.com/unitymakesus/[PROJECT-NAME].git
 $ cp -r [PROJECT-NAME]/. .
 $ rm -rf [PROJECT-NAME]
 ```
@@ -24,7 +24,6 @@ $ rm -rf [PROJECT-NAME]
 
 Make sure all dependencies have been installed:
 
-* [PHP](http://php.net/manual/en/install.php) >= 5.6.4
 * [Composer](https://getcomposer.org/download/)
 * [Node.js](http://nodejs.org/) >= 6.9.x
 * [Yarn](https://yarnpkg.com/en/docs/install)
