@@ -11,7 +11,9 @@ Create new project in Local by Flywheel:
 
 ## Clone Git Repo
 
-1. Find and clone the repository URL in Unity's GitHub organization: https://github.com/organizations/unitymakesus/:
+1. In this step you will find and clone the repository URL in Unity's GitHub organization: https://github.com/organizations/unitymakesus/.
+
+So in Terminal, go to the app/public/ directory for the new project you created in Local by Flywheel and then do the following:
 
 ```shell
 # @ app/public/
