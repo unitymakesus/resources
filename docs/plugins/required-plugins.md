@@ -18,5 +18,6 @@ The following plugins should be installed on all of our websites. Depending on t
 ## Before Launch
 
 * Redirection by John Godley
+* Security Safe by Sovereign Stack, LLC
 * The SEO Framework by Sybre Waaijer
 * WP Fastest Cache by Emre Vona
