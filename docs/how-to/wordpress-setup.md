@@ -50,3 +50,4 @@ The length of the excerpt here depends on the individual website's design. For n
 1. Check "Read More Link." The text that is here is determined by the individual website's design too.
 2. Uncheck "No Custom Excerpts"
 3. Uncheck "Filter: the_content()"
+4. Strip Tags: Switch to "Remove all tags..." and don't check any boxes below.
