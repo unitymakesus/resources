@@ -13,6 +13,10 @@ Monitor changes to posts and pages.
 
 Set URL monitor changes to save to Modified Posts group.
 
+Input file path for .htaccess file: `/home/[account]/public_html/.htaccess`
+
+Edit "Redirections" Group to use Apache Module.
+
 ## Security Safe Settings
 
 ### Privacy
