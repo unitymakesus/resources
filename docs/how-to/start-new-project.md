@@ -13,14 +13,14 @@ Install Sage using Composer from your WordPress themes directory (replace `your-
 
 ```shell
 # @ app/public/wp-content/themes/
-$ composer create-project roots/sage your-theme-name dev-master
+$ composer create-project roots/sage your-theme-name
 ```
 
 Note: If you get an error that your PHP version is wrong, double check that you have enabled PHP 7.x in Local by Flywheel. If you still get the error, try this:
 
 ```shell
 # @ app/public/wp-content/themes/
-$ composer create-project --ignore-platform-reqs roots/sage your-theme-name dev-master
+$ composer create-project --ignore-platform-reqs roots/sage your-theme-name
 ```
 
 During theme installation you will have the options to:
