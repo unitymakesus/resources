@@ -4,7 +4,7 @@
 
 Make sure all dependencies have been installed:
 
-* [PHP](http://php.net/manual/en/install.php) >= 5.6.4
+* [PHP](http://php.net/manual/en/install.php) >= 7.1.0
 * [Composer](https://getcomposer.org/download/)
 * [Node.js](http://nodejs.org/) >= 6.9.x
 * [Yarn](https://yarnpkg.com/en/docs/install)
