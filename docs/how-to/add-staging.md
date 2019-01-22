@@ -1,62 +1,38 @@
-1. log in to WHM
+# Create New Staging Site
+
+## Set up new hosting account
+1. Log in to WHM
 2. Create new account
 - url: clientname.staging.unitymakes.us
 - username: clientname
-- ps: random generator (check i have copied in safe place)
+- ps: random generator (check "I have copied in safe place" -- but don't actually save it.)
 - email: admin@unitymakes.us
 - package: unity_micro
 - mail routing: remote mail exchanger
 3. List Accounts
-4. Cpanel icon for staging site 
-5. SSH Access
-6. Manage SSH keys > Import key
-7. Name it as user_computer (like alisa_mac)
-8. Paste the computer’s id_rsa.pub into public key box. Don’t use a passphrase.
-9. Go back to Manage Keys and then Authorize the public key you just added
+4. cPanel icon for staging site 
 
-10. In cPanel, wordpress manager
-11. New site 
-12. advanced config
+## Add SSH Keys
+1. SSH Access
+2. Manage SSH keys > Import key
+3. Name it as user_computer (like alisa_mac)
+4. Paste the computer’s id_rsa.pub into public key box. Don’t use a passphrase.
+5. Go back to Manage Keys and then Authorize the public key you just added
+
+## Install WordPress
+1. In cPanel, WordPress manager
+2. New site
+3. Advanced config
+- Delete 'wordpress' from subdirectory
 - user & pw: usual
-13. install 
+4. Install 
 
-14. potentially look into cpanel and git instead of terminal 
-```
-# @ ~
-$ mkdir -p git/production.git
-$ cd git/production.git
-$ git init --bare
-$ vi hooks/post-receive
-```
-
-In vi editor, type i to insert text, then copy and paste the following:
-```
-#!/usr/bin/env ruby
-# post-receive
-
-# 1. Read STDIN (Format: "from_commit to_commit branch_name")
-from, to, branch = ARGF.read.split " "
-
-# 2. Only deploy if master branch was pushed
-if (branch =~ /master$/) == nil
-  puts "Received branch #{branch}, not deploying."
-  exit
-end
-
-# 3. Copy files to deploy directory
-deploy_to_dir = File.expand_path('~/public_html')
-`GIT_WORK_TREE="#{deploy_to_dir}" git checkout -f master`
-puts "DEPLOY: master(#{to}) copied to '#{deploy_to_dir}'"
-```
-
-Push the esc key and then type :wq to save your edits and quit vi.
-
-Back in the regular terminal, type the following:
-```
-# @ ~/git/production.git
-$ chmod +x hooks/post-receive
-```
-
-15. add remote and push 
-
-16. ssh accountname@ip
+## Set Up Git Deploy
+1. In cPanel, Git Version Control
+2. Create repo
+- Toggle off clone
+- Repo path: `home/clientname/repository/projectname`
+- Repo name: `projectname`
+3. In local repo, edit line 3 of `.cpanel.yml` file: replace `user` with `clientname`
+4. Add remote, `git remote add staging [ssh url]`
+5. Push `develop` branch.
