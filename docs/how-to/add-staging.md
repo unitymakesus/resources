@@ -7,10 +7,20 @@
 - username: clientname
 - ps: random generator (check "I have copied in safe place" -- but don't actually save it.)
 - email: admin@unitymakes.us
-- package: unity_micro
+- package: resell49_default
 - mail routing: remote mail exchanger
 3. List Accounts
 4. cPanel icon for staging site 
+
+## Enable SSH Access and Issue SSL Certificate
+1. Open new ticket with [GreenGeeks support](https://am.greengeeks.com/support/open_ticket.php).
+```
+Can you please enable SSH acceess and issue a Let's Encrypt SSL Certificate for the account [clientname] on my reseller hosting?
+```
+
+## Enable PHP 7.2
+1. In cPanel, Select PHP Version
+2. Also need to select some of those extensions but I don't feel like writing this right now... Future me and Lexi, look at myfriendteresa's settings.
 
 ## Add SSH Keys
 1. SSH Access
