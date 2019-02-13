@@ -12,16 +12,6 @@
 3. List Accounts
 4. cPanel icon for staging site 
 
-## Enable SSH Access and Issue SSL Certificate
-1. Open new ticket with [GreenGeeks support](https://am.greengeeks.com/support/open_ticket.php).
-```
-Can you please enable SSH acceess and issue a Let's Encrypt SSL Certificate for the account [clientname] on my reseller hosting?
-```
-
-## Enable PHP 7.2
-1. In cPanel, Select PHP Version
-2. Also need to select some of those extensions but I don't feel like writing this right now... Future me and Lexi, look at myfriendteresa's settings.
-
 ## Add SSH Keys
 1. SSH Access
 2. Manage SSH keys > Import key
@@ -38,11 +28,10 @@ Can you please enable SSH acceess and issue a Let's Encrypt SSL Certificate for 
 4. Install 
 
 ## Set Up Git Deploy
-1. In cPanel, Git Version Control
-2. Create repo
-- Toggle off clone
+1. In local repo, edit line 3 of `.cpanel.yml` file: replace `user` with `clientname`
+2. In cPanel, Git Version Control
+3. Create repo. Past in the Github clone URL. The following should be automatically populated:
 - Repo path: `home/clientname/repository/projectname`
 - Repo name: `projectname`
-3. In local repo, edit line 3 of `.cpanel.yml` file: replace `user` with `clientname`
-4. Add remote, `git remote add staging [ssh url]`
+4. Add new remote for staging, `git remote add staging [ssh url]`
 5. Push `develop` branch.
