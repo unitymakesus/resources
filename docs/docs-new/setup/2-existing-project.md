@@ -1,4 +1,4 @@
-# Contributing to an existing Project (preexisting Git repo)
+# Contributing to an existing Project
 Use this workflow if someone has already set up the starter theme and there is an existing GitHub repo. Check the pre-build checklist to get all the information needed: https://drive.google.com/open?id=1Yc_hj-tikhQxwk3-YIs9_M9KXlqrz08MdukcZuA5kTM
 
 ## Set Up Local Environment

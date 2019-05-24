@@ -1,4 +1,4 @@
-# Creating a New Project (no preexisting Git repo)
+# Creating a New Project
 Use this workflow if you are starting a project from scratch and there is no repository or local site set up. If you need to work on a project that already has a Git repo, use the "existing project" step.
 
 ## Set Up Local Environment

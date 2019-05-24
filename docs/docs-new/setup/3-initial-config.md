@@ -1,5 +1,5 @@
-# Initial WordPress Settings & Configuration
-These are the steps you should take anytime a new WordPress website is set up.
+# Initial WordPress Configuration
+These are the settings and steps steps you should take anytime a new WordPress website is set up.
 
 1. Install and activate required plugins (see general > plugins).
 2. Add API keys for Pro plugins to enable updates.
