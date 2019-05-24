@@ -1,4 +1,4 @@
-# Initial Settings & Config
+# Initial WordPress Settings & Config
 These are the steps you should take anytime a new Simple website is set up.
 
 ## Setting up content
