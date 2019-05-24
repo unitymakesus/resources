@@ -1,4 +1,4 @@
 ---
 title: Custom Project Setup
-weight: 1
+weight: 2
 ---
