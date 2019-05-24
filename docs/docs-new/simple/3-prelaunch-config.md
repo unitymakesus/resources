@@ -1,3 +1,9 @@
+---
+layout: default
+published: true
+order: 3
+---
+
 # Pre-Launch WP Settings & Config
 Before launching a Simple site, make sure to complete all of these steps for plugin config and other settings at least 1 day before launch.
 

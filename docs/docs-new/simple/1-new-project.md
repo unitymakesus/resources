@@ -1,3 +1,9 @@
+---
+layout: default
+published: true
+order: 1
+---
+
 # New Simple Project
 To begin a new Simple project, follow these steps.
 
@@ -10,7 +16,7 @@ To begin a new Simple project, follow these steps.
 4. Give the new site a name and title. Set the email to `admin@unitymakes.us`
 
 5. From the sidebar, go to Sites > [Select new site] > Settings
- 
+
 6. From the settings tab, change the following:
 - Blogdescription: Change to something relevent
 - Start Of Week: 0

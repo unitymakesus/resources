@@ -1,3 +1,9 @@
+---
+layout: default
+published: true
+order: 2
+---
+
 # Initial WP Settings & Config
 These are the steps you should take anytime a new Simple website is set up.
 

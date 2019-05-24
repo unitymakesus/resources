@@ -1,3 +1,9 @@
+---
+layout: default
+published: true
+order: 4
+---
+
 # Simple Launch
 Follow these steps to launch a Simple site. Before going any further, make sure everything has been completed in the pre-launch config.
 
