@@ -1,4 +1,4 @@
-# Pre-Launch WordPress Settings & Configuration
+# Pre-Launch Settings & Confirg
 
 ## Plugins To Add Before Launch
 * [Redirection](https://wordpress.org/plugins/redirection/)

@@ -1,5 +1,5 @@
-# Initial WordPress Configuration
-These are the settings and steps you should take anytime a new Simple website is set up.
+# Initial Settings & Config
+These are the steps you should take anytime a new Simple website is set up.
 
 ## Setting up content
 1. Delete "Hello World!" post and empty trash.
