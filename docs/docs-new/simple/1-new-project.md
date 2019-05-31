@@ -1,3 +1,9 @@
+---
+layout: default
+published: true
+order: 1
+---
+
 # New Simple Project
 To begin a new Simple project, follow these steps.
 

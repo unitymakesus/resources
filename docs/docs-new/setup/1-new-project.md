@@ -16,7 +16,7 @@ Create a new project in Local by Flywheel:
   * Email: admin@unitymakes.us
 
 ## Create Git Repo
-Create a new repository in Unity's GitHub organization: https://github.com/organizations/unitymakesus/repositories/new
+Create a new repository in Unity's [GitHub](https://github.com/organizations/unitymakesus/repositories/new)
 
 **Repo name should be the url sitename without .test**
 
@@ -71,4 +71,4 @@ $ git push -u origin master
 
 ## Final steps
 - Commit and push all theme changes up to GitHub
-- Fill out the pre-build checklist: https://drive.google.com/open?id=1joSjGKfVunmZR7F5RcucHOPwFNagNeb4Fx2q2O8BjWI
+- Fill out the [pre-build checklist](https://drive.google.com/open?id=1joSjGKfVunmZR7F5RcucHOPwFNagNeb4Fx2q2O8BjWI)
