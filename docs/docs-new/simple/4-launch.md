@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-order: 4
+weight: 4
 ---
 
 # Simple Launch

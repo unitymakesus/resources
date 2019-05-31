@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-order: 1
+weight: 1
 ---
 
 # New Simple Project

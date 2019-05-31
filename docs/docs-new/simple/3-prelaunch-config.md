@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-order: 3
+weight: 3
 ---
 
 # Pre-Launch WP Settings & Config

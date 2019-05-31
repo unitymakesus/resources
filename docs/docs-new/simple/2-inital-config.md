@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-order: 2
+weight: 2
 ---
 
 # Initial WP Settings & Config
