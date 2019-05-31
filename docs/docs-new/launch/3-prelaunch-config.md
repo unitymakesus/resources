@@ -1,3 +1,9 @@
+---
+layout: default
+published: true
+weight: 3
+---
+
 # Pre-Launch WP Settings & Config
 
 ## Plugins To Add Before Launch
