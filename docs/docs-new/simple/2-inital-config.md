@@ -34,4 +34,5 @@ The following plugins should be installed and activated on every website. Depend
 - Email Address Encoder by Till Krüss
 - WP Migrate DB Pro by Delicious Brains
 - WP Migrate DB Pro Media Files by Delicious Brains
-- Smush Image Compression and Optimization (a.k.a. WP Smush) by WPMU DEV
+- Smush Image Compression and Optimization (WP Smush) by WPMU DEV
+- GA Google Analytics by Jeff Starr
