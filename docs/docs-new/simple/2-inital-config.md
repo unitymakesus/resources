@@ -4,7 +4,7 @@ published: true
 weight: 2
 ---
 
-# Initial WP Settings & Config
+# Initial Config
 These are the steps you should take anytime a new Simple website is set up.
 
 ## Setting up content

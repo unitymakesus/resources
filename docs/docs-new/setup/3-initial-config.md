@@ -4,7 +4,7 @@ published: true
 weight: 2
 ---
 
-# Initial WP Settings & Config
+# Initial Config
 These are the settings and steps steps you should take anytime a new WordPress website is set up.
 
 1. Install and activate required plugins (see general > plugins).
