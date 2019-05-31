@@ -1,3 +1,9 @@
+---
+layout: default
+published: true
+weight: 2
+---
+
 # Yarn Commands
 Here are some helpful Yarn commands if you are new to Sage and Yarn. Run these script commands within your theme directory:
 

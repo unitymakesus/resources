@@ -1,3 +1,9 @@
+---
+layout: default
+published: true
+weight: 1
+---
+
 # Required Plugins
 The following plugins should be installed on all of our custom websites. Depending on the individual website's functionality requirements, other plugins will probably be necessary.
 

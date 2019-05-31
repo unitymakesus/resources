@@ -1,3 +1,9 @@
+---
+layout: default
+published: true
+weight: 2
+---
+
 # Contributing to an existing Project
 Use this workflow if someone has already set up the starter theme and there is an existing GitHub repo. Check the [pre-build checklist](https://drive.google.com/open?id=1Yc_hj-tikhQxwk3-YIs9_M9KXlqrz08MdukcZuA5kTM) to get all the information needed.
 

@@ -1,3 +1,9 @@
+---
+layout: default
+published: true
+weight: 1
+---
+
 # Creating a New Project
 Use this workflow if you are starting a project from scratch and there is no repository or local site set up. If you need to work on a project that already has a Git repo, use the "existing project" step.
 
