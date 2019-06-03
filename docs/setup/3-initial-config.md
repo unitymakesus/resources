@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-weight: 2
+weight: 3
 ---
 
 # Initial Config

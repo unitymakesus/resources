@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-weight: 4
+weight: 3
 ---
 
 # Simple Launch
@@ -19,8 +19,8 @@ Follow these steps to launch a Simple site. Before going any further, make sure 
 ## On Simple My Sites > Network Admin dashboard
 - Settings > Migrate DB Pro
 - Find and Replace > Select specific sub site
-  * Find: `//justgetsimple.com/sitename` (ex: //justgetsimple.com/pphd)
-  * replace: `//www.siteurl` or `//siteurl` (ex: //www.thepocketphd.com)
+  * Find: `//justgetsimple.com/sitename`
+  * replace: `//www.siteurl.com` or `//siteurl.com`
 
 ## On the Unity Server
 - In the Just Get Simple cPanel
@@ -30,4 +30,4 @@ Follow these steps to launch a Simple site. Before going any further, make sure 
 - In the website account
 - DNS > update A record to new IP: `209.124.90.253`
 
-**When you are finished, go to a private browser and check all links and images to make sure everything works Properly**
+**When you are finished, go to a private browser and check all links and images to make sure everything works properly**

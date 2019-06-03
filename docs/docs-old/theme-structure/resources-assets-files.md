@@ -1,6 +1,6 @@
 ---
 title: Asset files
-weight: 10
+weight: 3
 ---
 
 # Resources: Asset files
@@ -59,7 +59,7 @@ By default, Sage builds two JS files and one CSS file. To create additional CSS 
 ```
 Before you go and add font files here, make sure they’re not available via [Google Fonts](https://fonts.google.com/). Any Google Fonts should be loaded with the Web Font Loader script.
 
-This directory may contain licensed web fonts in .eot, .otf, .svg, .ttf, and .woff formats. Including as many file types as possible will help ensure cross-browser compatibility. 
+This directory may contain licensed web fonts in .eot, .otf, .svg, .ttf, and .woff formats. Including as many file types as possible will help ensure cross-browser compatibility.
 
 ### TODO: About @font-face
 

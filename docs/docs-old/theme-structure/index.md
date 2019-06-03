@@ -1,4 +1,4 @@
 ---
 title: Theme Structure
-weight: 5
+weight: 6
 ---

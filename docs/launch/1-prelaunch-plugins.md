@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-weight: 3
+weight: 2
 ---
 
 # Pre-Launch Config

@@ -1,13 +1,13 @@
 ---
 title: Other files
-weight: 15
+weight: 4
 ---
 
 # Other files
 There are a bunch of files that power the theme. These are rarely edited and should only be touched if you know what you’re doing.
 
 ```
-|-- config/         # -> Sage configuration 
+|-- config/         # -> Sage configuration
 |-- dist/           # -> Compiled theme assets (never edit)
 |-- node_modules/   # -> Node.js packages (never edit)
 |-- resources/

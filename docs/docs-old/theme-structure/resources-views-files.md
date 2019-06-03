@@ -1,6 +1,6 @@
 ---
 title: View files
-weight: 5
+weight: 2
 ---
 
 # Resources: View files
@@ -19,7 +19,7 @@ The starter template comes with the following directory structure and files for 
 ```
 
 ## Required WordPress files
-There are four files required by WordPress for any theme. These are all present in the `resources/` directory and should never be moved. 
+There are four files required by WordPress for any theme. These are all present in the `resources/` directory and should never be moved.
 
 1. Theme stylesheet: `style.css`
 This file contains the theme metadata, which is generated when installing the starter template.
@@ -76,7 +76,7 @@ You’ll be making lots of customizations here.
 ```
 |-- resources/
 |   |-- views/
-|   |   |-- partials/	
+|   |   |-- partials/
 |   |   |   |-- comments.blade.php        # -> Markup for comments
 |   |   |   |-- content-page.blade.php    # -> Page content markup
 |   |   |   |-- content-search.blade.php  # -> Search results content markup
