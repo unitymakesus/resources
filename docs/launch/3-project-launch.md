@@ -48,7 +48,7 @@ Follow these steps to launch a website site. Before going any further, make sure
 - Click "manage"
 - Copy the DKIM value
 
-## From Cloudflare
+### From Cloudflare
 - Find the account and go to DNS
 - Add a TXT Record with the following:
     - Name: `default._domainkey`

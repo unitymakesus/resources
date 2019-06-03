@@ -4,7 +4,7 @@ published: true
 weight: 2
 ---
 
-# Pre-Launch Config
+# Pre-Launch Plugins
 
 ## Plugins To Add Before Launch
 * [Redirection](https://wordpress.org/plugins/redirection/)
