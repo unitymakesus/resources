@@ -6,6 +6,5 @@ weight: 4
 
 # Coding Standards
 
-wordpress coding standards
-
-linter 
+https://codex.wordpress.org/WordPress_Coding_Standards
+ 
