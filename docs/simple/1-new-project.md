@@ -9,13 +9,13 @@ To begin a new Simple project, follow these steps.
 
 1. Log into the [Just Get Simple](https://justgetsimple.com/wp-admin) dashboard
 
-2. From the top bar go to My Sites > Sites
+2. From the top bar go to My Sites > Network Admin > Sites
 
 3. Click "Add New"
 
 4. Give the new site a name and title. Set the email to `admin@unitymakes.us`
 
-5. From the sidebar, go to Sites > [Select new site] > Settings
+5. From the sidebar, go to Sites > [Select new site title] > Settings
 
 6. From the settings tab, change the following:
 - Blogdescription: Change to something relevent
@@ -40,3 +40,5 @@ To begin a new Simple project, follow these steps.
 - Thread Comments: leave empty
 - Page Comments: leave empty
 - Timezone String: America/New_York
+
+7. Click "Save Changes"
