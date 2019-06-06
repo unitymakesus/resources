@@ -73,6 +73,8 @@ paste string and click udpate
 - Toggle on "Always use HTTPS"
 - Toggle on "Automatic HTTPS Rewrites"
 
+**When you are finished, go to a private browser and check all links and images to make sure everything works properly**
+
 ## Add Site to ManageWP
 - Log in to (ManageWP)[https://orion.managewp.com/]
 - From the dashboard, click the + > add website
@@ -81,5 +83,3 @@ paste string and click udpate
 - Go to the website dashboard
 - Click Settings > Tags / Clients
 - Select the appropriate package for that client 
-
-**When you are finished, go to a private browser and check all links and images to make sure everything works properly**
