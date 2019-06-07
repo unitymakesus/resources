@@ -11,11 +11,12 @@ unitycom user
 
 list accounts > create new accounts
 
-domain: sitename.beta.unitymakes.us
-username: sitename
-pw: autogenerate
-email: admin@unitymakes
-package: default
+* domain: sitename.beta.unitymakes.us
+* username: sitename
+* pw: autogenerate
+* email: admin@unitymakes
+* package: default
+* mail routing: remote
 
 click create
 
