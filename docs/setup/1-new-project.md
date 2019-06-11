@@ -29,15 +29,15 @@ Create a new repository in Unity's [GitHub](https://github.com/organizations/uni
 **Do not initialize it with a README, license, or .gitignore files.**
 
 ## Set Up Unity Starter Template
-1. In terminal, CD to the `app/public/` directory for the new project you created in Local by Flywheel.
+1.In terminal, CD to the `app/public/` directory for the new project you created in Local by Flywheel.
 
-2. Run the following command to clone the starter-template repo into your project without a commit history.
+2.Run the following command to clone the starter-template repo into your project without a commit history.
 
 ```shell
 git clone --depth 1 https://github.com/unitymakesus/starter-template.git
 ```
 
-3. Run the following commands to move the starter-template files into the correct place in your project and remove the starter-template folder.
+3.Run the following commands to move the starter-template files into the correct place in your project and remove the starter-template folder.
 
 ```shell
 rm -rf starter-template/.git
@@ -45,7 +45,7 @@ cp -r starter-template/. .
 rm -rf starter-template
 ```
 
-4. Create a local repo with an initial commit and push your local changes to the GitHub repo.
+4.Create a local repo with an initial commit and push your local changes to the GitHub repo.
 
 ````shell
 git init
@@ -56,12 +56,12 @@ git remote -v
 git push -u origin master
 ````
 
-5. CD to the `wp-content/themes` directory and use command `rm -rf [replace with theme name]` to remove any themes that are not the two Unity specific themes.
+5.CD to the `wp-content/themes` directory and use command `rm -rf [replace with theme name]` to remove any themes that are not the two Unity specific themes.
 
 
 ## Set Up Unity Starter Theme
 
-1. CD to the `unity-core` theme directory and open the entire folder in Atom
+1.CD to the `unity-core` theme directory and open the entire folder in Atom
 
 * Update the `resources/assets/config.json` settings:
   * `devUrl` should reflect your local dev url
@@ -71,9 +71,9 @@ git push -u origin master
   * `composer install`
   * `yarn`  
 
-2. Complete Step One with the `unity-child` theme.  
+2.Complete Step One with the `unity-child` theme.  
 
-3. Login to your Local by Flywheel site (url.test/wp-admin) and active the `Unity Child` theme. Once you do this, the starter theme should be working.
+3.Login to your Local by Flywheel site (url.test/wp-admin) and active the `Unity Child` theme. Once you do this, the starter theme should be working.
 
 ## Final steps
 - Commit and push all theme changes up to GitHub
