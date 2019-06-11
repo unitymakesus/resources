@@ -48,12 +48,12 @@ rm -rf starter-template
 4. Create a local repo with an initial commit and push your local changes to the GitHub repo.
 
 ````shell
-$ git init
-$ git add .
-$ git commit -m "Initial commit"
-$ git remote add origin [replace with remote repository URL]
-$ git remote -v
-$ git push -u origin master
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin [replace with remote repository URL]
+git remote -v
+git push -u origin master
 ````
 
 5. CD to the `wp-content/themes` directory and use command `rm -rf [replace with theme name]` to remove any themes that are not the two Unity specific themes.
