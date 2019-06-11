@@ -77,4 +77,4 @@ git push -u origin master
 
 ## Final steps
 - Commit and push all theme changes up to GitHub
-- Fill out the [pre-build checklist](https://drive.google.com/open?id=1joSjGKfVunmZR7F5RcucHOPwFNagNeb4Fx2q2O8BjWI)
+- Fill out the [pre-build checklist](https://docs.google.com/forms/d/e/1FAIpQLSePcuWoTGgeKrsRLtlOCYJD8UbOFwBthBkXPlRJNRttsrlxfQ/viewform)
