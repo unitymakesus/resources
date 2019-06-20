@@ -44,3 +44,6 @@ go into account with cpanel icon
 1. Go to the Terminal in cPanel
 2. `cd` to the unity-core theme
 3. Run `composer install`
+
+## WP Migrate DB Pro
+do it
