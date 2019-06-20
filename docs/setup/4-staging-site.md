@@ -39,3 +39,8 @@ go into account with cpanel icon
 - Repo name: `projectname`
 4. Add new remote for staging, `git remote add staging [ssh url]`
 5. Push `develop` branch.
+
+## Initialize the theme
+1. Go to the Terminal in cPanel
+2. `cd` to the unity-core theme
+3. Run `composer install`
