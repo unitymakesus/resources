@@ -75,6 +75,10 @@ paste string and click udpate
 
 **When you are finished, go to a private browser and check all links and images to make sure everything works properly**
 
+## Speed Testing
+- Use Lighthouse from Google Chrome to ensure speed is ok on live site. 
+- Check: Perfomance, Best Practices 
+
 ## Add Site to ManageWP
 - Log in to (ManageWP)[https://orion.managewp.com/]
 - From the dashboard, click the + > add website
