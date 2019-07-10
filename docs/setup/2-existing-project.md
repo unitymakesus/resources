@@ -54,7 +54,7 @@ Make sure all dependencies have been installed:
 3. Login to your Local by Flywheel site and activate the project theme.
 
 ## Pull down the Staging Database
-- On your **local** site (the .test url, not localhost), activate the "WP Migrate DB Pro" and "WP Migrate DB Pro Media Files" plugins. Enter the license key found in Google Drive
+- On your **local** site (the .test url, not localhost), activate the "WP Migrate DB Pro" and "WP Migrate DB Pro Media Files" plugins. Enter the license key found in [Google Drive](https://drive.google.com/drive/folders/0B07ZaFqds8KESnFsaURnaktsNGM)
 - On the **staging** site, login and go to `Tools > WP Migrate DB Pro`. From the settings tab, copy the connection info to your clipboard
 - On your **local** site, go to `Tools > WP Migrate DB Pro` and select **PULL**. Enter the staging connection info and check `media files` to also download images. Click `pull`.
 
