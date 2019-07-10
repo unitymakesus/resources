@@ -19,7 +19,7 @@ Create a new project in Local by Flywheel:
 * WordPress Credentials
   * Username: unityadmin
   * Password: Use pre-build password
-  * Email: Use pre-build email
+  * Email: hello@unitymakes.us
 
 ## Clone GitHub Repo
 1. In terminal, CD to the `app/public/` directory for the new project you created in Local by Flywheel.
@@ -39,7 +39,7 @@ rm -rf [PROJECT-NAME]
 ## Set up Theme Dependencies
 Make sure all dependencies have been installed:
 
-1. CD to the `unity-core` theme directory and open the entire folder in Atom
+1. CD to the `project-core` theme directory and open the entire folder in Atom
 
 * Update the `resources/assets/config.json` settings:
   * `devUrl` should reflect your local dev url
@@ -49,7 +49,7 @@ Make sure all dependencies have been installed:
   * `composer install`
   * `yarn`  
 
-2. Complete Step One with the `unity-child` theme.  
+2. Complete Step One with the `project-child` theme.  
 
 3. Login to your Local by Flywheel site and activate the project theme.
 
