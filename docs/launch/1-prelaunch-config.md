@@ -16,9 +16,7 @@ Before launching a website, make sure to complete all of these steps for plugin 
 ## Change nameservers  
 1. Login to the domain registrar (you need to get this from the client)
 2. Find the nameservers and remove the old ones
-3. Point the domain to Cloudflare using the following nameservers:
-`dean.ns.cloudflare.com`
-`gail.ns.cloudflare.com`
+3. Point the domain to Cloudflare using the 2 nameservers given to you by CLoudflare.  
 
 ## Set up Google Analytics
 1. On the old website, right click and select "view page source"
