@@ -10,7 +10,7 @@ weight: 2
 * [Redirection](https://wordpress.org/plugins/redirection/)
 * [Security Safe](https://wordpress.org/plugins/security-safe/)
 * [The SEO Framework](https://wordpress.org/plugins/autodescription/)
-* [WP Fastest Cache](https://wordpress.org/plugins/wp-fastest-cache/)
+* [Autoptimize](https://wordpress.org/plugins/autoptimize/)
 
 ## Redirection Settings
 Add redirects for all pages on the old site whose slugs have changed on the new site.
@@ -203,16 +203,6 @@ Choose on-brand colors. They must contrast enough with each other
 - [x] Convert feed entries into excerpts?
 - [x] Add link to source below the feed entry content?
 
-## WP Fastest Cache Settings
+## Autotomize Settings
 
-Check the following:
- - Cache System Enable
- - Logged-in Users
- - New Post (Clear All Cache)
- - Update Post (Clear Cache of Post/Page)
- - Minify HTML
- - Minify CSS
- - Combine CSS
- - Gzip
- - Browser Caching
- - Disable Emojis
+Revisit NC aud
