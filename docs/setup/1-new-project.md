@@ -19,7 +19,7 @@ Create a new project in Local by Flywheel:
 * WordPress Credentials
   * Username: unityadmin
   * Email: admin@unitymakes.us
-  * Password: Create new secure password and enter the info in the [Pre-Build Checklist form] (https://forms.gle/vreZiAdHggATknt7A)
+  * Password: Create new secure password and enter the info in the [Pre-Build Checklist form](https://forms.gle/vreZiAdHggATknt7A)
 
 ## Create Git Repo
 Create a new repository in Unity's [GitHub](https://github.com/organizations/unitymakesus/repositories/new)
