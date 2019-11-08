@@ -18,8 +18,8 @@ Create a new project in Local by Flywheel:
   * MySQL > Latest Available
 * WordPress Credentials
   * Username: unityadmin
-  * Password: bring2gether3!
   * Email: admin@unitymakes.us
+  * Password: Create new secure password and enter the info in the [Pre-Build Checklist form] (https://forms.gle/vreZiAdHggATknt7A)
 
 ## Create Git Repo
 Create a new repository in Unity's [GitHub](https://github.com/organizations/unitymakesus/repositories/new)
@@ -77,4 +77,4 @@ git push -u origin master
 
 ## Final steps
 - Commit and push all theme changes up to GitHub
-- Fill out the [pre-build checklist](https://docs.google.com/forms/d/e/1FAIpQLSePcuWoTGgeKrsRLtlOCYJD8UbOFwBthBkXPlRJNRttsrlxfQ/viewform)
+- Make sure to submit the [pre-build checklist](https://docs.google.com/forms/d/e/1FAIpQLSePcuWoTGgeKrsRLtlOCYJD8UbOFwBthBkXPlRJNRttsrlxfQ/viewform)
